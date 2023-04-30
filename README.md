@@ -12,5 +12,5 @@
 + [**作業1**]( https://github.com/bonnie705/PL/blob/main/HW1/HW1.ipynb)
 + [**作業2**](https://github.com/bonnie705/PL/blob/main/HW2/HW2.ipynb)
 + [**作業3**](https://github.com/bonnie705/PL/blob/main/HW3/HW3.ipynb)
-+ [**作業4 **](https://medium.com/@bonnie705.yang/文字探勘分析台南古蹟-db7286d38976)
++ [**作業4**](https://medium.com/@bonnie705.yang/文字探勘分析台南古蹟-db7286d38976)
 ## 專題連結區 <br />
